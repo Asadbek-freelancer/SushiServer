@@ -2,7 +2,7 @@
   "name": "sushi-server",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
@@ -12,5 +12,8 @@
   "type": "commonjs",
   "dependencies": {
     "json-server": "^1.0.0-beta.3"
+  },
+  "engines": {
+    "node": "18"
   }
 }
