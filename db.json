@@ -798,46 +798,7 @@
     }
   ],
   "orders": [
-    {
-      "id": "b47b",
-      "name": "Asadbek",
-      "phone": "90998998",
-      "address": {
-        "id": "45d3",
-        "city": "москва",
-        "house": "01",
-        "entrance": "48",
-        "floor": "2",
-        "apartment": "3"
-      },
-      "deliveryTime": {
-        "day": [
-          "Среда"
-        ],
-        "time": [
-          "Ближайшее время"
-        ]
-      },
-      "comment": "опмрпмр",
-      "payment": 2,
-      "deliveryOption": "Не звонить в дверь",
-      "pet": "У меня есть собака",
-      "city": "",
-      "street": "",
-      "cart": [
-        {
-          "id": "26",
-          "image": "../images/Snacks2.png",
-          "name": "Тартар из лосося с авокадо",
-          "weight": "Вес: 180 г",
-          "price": "190",
-          "quantity": 1
-        }
-      ],
-      "total": 190,
-      "date": "2025-11-04T17:01:59.588Z",
-      "orderNumber": 29911
-    }
+  
   ],
   "profile": [
     {
@@ -849,17 +810,6 @@
     }
   ],
   "users": [
-    {
-      "id": "e01e",
-      "email": "jack24richer@gmail.com",
-      "password": "$2b$10$1516j7g5tsyHPK0qOqFxVegnva.ht9bCH/tkDejrClvzkEfo.yAUC",
-      "btcAddress": ""
-    },
-    {
-      "id": "eec7",
-      "email": "jack24richer@gmail.com",
-      "password": "$2b$10$isqqKgnAJoaylvuI0Df45Ou5bOizHpdyHU.PU9BD2hdPvqieRGxCG",
-      "btcAddress": ""
-    }
+   
   ]
 }
